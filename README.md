@@ -1,4 +1,4 @@
-# guidance
+# guidance (Capstone / Thesis)
 
 This web application aims to create non objective exam to evaluate students.
 
